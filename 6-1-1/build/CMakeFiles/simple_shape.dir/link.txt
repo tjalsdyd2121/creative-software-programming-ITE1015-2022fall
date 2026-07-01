@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/simple_shape.dir/main.cc.o CMakeFiles/simple_shape.dir/shapes.cc.o -o simple_shape 
