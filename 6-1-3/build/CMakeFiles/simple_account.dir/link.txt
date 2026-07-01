@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/simple_account.dir/accounts.cc.o CMakeFiles/simple_account.dir/main.cc.o -o simple_account 
